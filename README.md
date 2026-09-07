@@ -1,6 +1,6 @@
 # Photos
 
-VB6 Photos viewer (`Photos.exe`) that starts with a splash form and uses MSCOMCTL plus the Shell Image Viewer (`shimgvw.dll`) on the main form for browsing packaged images. Open `Photos.vbp` in the VB6 IDE.
+VB6 Photos browser (`Photos.exe`) with a splash screen, folder DirList, and ListView of files previewed via Shell Image Viewer (`Preview.ShowFile` / `shimgvw.dll`). Open `Photos.vbp` in the VB6 IDE.
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
